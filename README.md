@@ -51,4 +51,6 @@ By combining key performance indicators (KPIs) with interactive charts and filte
 - Prioritize Early Detection and Screening
 - Strengthen Care for Advanced Ulcer Cases
 - Monitor High-Risk Patients
+- Promote Patient Education
+- Improve Medication Management
 
