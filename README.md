@@ -6,7 +6,7 @@ Ulcer health risk analysis using, Excel, PowerBI, Power Query and DAX
 ## 📌 Overview
 The Ulcer Health Risk Analysis Dashboard is an interactive Power BI report designed to analyze patient health data related to ulcer conditions. It provides healthcare professionals and decision-makers with valuable insights into ulcer prevalence, patient demographics, clinical indicators, medication usage, and pain patterns.
 
-By combining key performance indicators (KPIs) with interactive charts and filters, the dashboard allows users to explore relationships between patient age, BMI, hemoglobin levels, ulcer history, ulcer depth, medication usage, and pain severity
+By combining key performance indicators (KPIs) with interactive charts and filters, the dashboard allows users to explore relationships between patient age, BMI, hemoglobin levels, ulcer history, ulcer depth, medication usage, and pain severity.
 
 ---
 
