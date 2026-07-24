@@ -39,12 +39,6 @@ By combining key performance indicators (KPIs) with interactive charts and filte
 
 ---
 
-## 📌 Business Recommendations
--  Prioritize Early Detection and Screening
--  
--  
--  
-
 ## 📈 Key Insights
 - Identify the most common ulcer stages and depth levels.
 - Compare average BMI and hemoglobin levels across patient groups.
@@ -52,3 +46,9 @@ By combining key performance indicators (KPIs) with interactive charts and filte
 - Understand medication usage patterns among ulcer patients.
 - Analyze pain patterns to support treatment planning.
 - Explore age-related trends in ulcer prevalence and severity.
+
+## 📌 Business Recommendations
+- Prioritize Early Detection and Screening
+- Strengthen Care for Advanced Ulcer Cases
+- Monitor High-Risk Patients
+
