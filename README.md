@@ -54,3 +54,7 @@ By combining key performance indicators (KPIs) with interactive charts and filte
 - Promote Patient Education
 - Improve Medication Management
 
+---
+
+**Dashboard Preview**
+![Ulcer_Health_Risk_Analysis](Ulcer_Health_Risk_Analysis.png)
